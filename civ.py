@@ -135,4 +135,5 @@ def check_time(mod_time):
                 return True
             return False
 
-check_time(mod_time)
+if __name__ == "__main__":
+    check_time(mod_time)
