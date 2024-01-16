@@ -1,1 +1,4 @@
-creds/*
+credentials.json
+service_account_key.json
+secrets.json
+*.pyc 
